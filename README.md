@@ -2,7 +2,7 @@
 - 👀 I’m interested in consulting businesses
 - 🌱 I’m currently learning data analytics essential 
 - 💞️ I’m looking to collaborate on the same
-- 📫 How to reach me https://www.linkedin.com/in/ayush-kumar-singh-81b356296/
+- 📫 Reach me https://www.linkedin.com/in/ayush-kumar-singh-81b356296/
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: just 20!!
 
