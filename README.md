@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ayush-kumar-singh-81b356296/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ayush-kumar-singh-81b356296/](https://www.linkedin.com/in/ayush-kumar-singh-81b356296/)
+- 📄 Know about my experiences [https://linktr.ee/MISTERADVISOR/](https://www.linkedin.com/in/ayush-kumar-singh-81b356296/)
 
 - ⚡ Fun fact **i am just 20!**
 
