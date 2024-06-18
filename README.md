@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/mrjiiayush" target="blank"><img src="https://img.shields.io/twitter/follow/mrjiiayush?logo=twitter&style=for-the-badge" alt="mrjiiayush" /></a> </p>
 
-- 🔭 I’m currently working on **KHAN ACADEMY**
+- 🔭 I’m currently working on **Nexacore Solutions**
 
-- 🌱 I’m currently learning **data analysis essentials**
+- 🌱 I’m currently learning from **Unified Mentor**
 
 - 👯 I’m looking to collaborate on **BUSINESS ANALYTICAL PROJECTS**
 
