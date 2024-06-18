@@ -1,4 +1,4 @@
-![logo]((https://github.com/mrjiiayush/mrjiiayush/blob/main/linkedin%20banner.png))
+![Alt text](https://github.com/mrjiiayush/mrjiiayush/blob/main/linkedin%20banner.png)
 <h1 align="center">Hi 👋, I'm AYUSH KUMAR SINGH</h1>
 <h3 align="center">A passionate Business consulting aspirant from India</h3>
 <img align="right" alt="consutant" width="400" src="https://cdn.dribbble.com/users/1016670/screenshots/2508443/marek.gif"
